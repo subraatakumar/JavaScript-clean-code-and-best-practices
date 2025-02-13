@@ -245,8 +245,3 @@ const memoizedFunction = (function() {
 
 ---
 
-### **Next Steps:**
-
-Now, I'll prepare the **live coding examples** based on these notes. Let me know if you need any changes! 🚀
-
-No
