@@ -120,7 +120,7 @@ function getName(user) {
   return user.name.toUpperCase(); // Error if user is undefined
 }
 
-// Good
+// Good : use optional chaining and or operator 
 function getName(user) {
   return user?.name?.toUpperCase() || "Guest";
 }
