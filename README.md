@@ -31,7 +31,7 @@
 
 ## **3. Modern JavaScript Best Practices (ES6+)**
 
-### ✅ \*\*Use `` and `` Instead of \*\*``
+### ✅ Use `let` and `const` Instead of `var`
 
 ```js
 // Bad
