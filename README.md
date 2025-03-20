@@ -4,7 +4,7 @@ Clean code is easy to read, maintain, and debug.
 **Key principles:**  
 - [**KISS (Keep It Simple, Stupid)** – Avoid unnecessary complexity.](https://github.com/subraatakumar/JavaScript-clean-code-and-best-practices/blob/main/files/KISS.md)  
 - [**DRY (Don’t Repeat Yourself)** – Reuse code instead of duplicating it.](https://github.com/subraatakumar/JavaScript-clean-code-and-best-practices/blob/main/files/DRY.md)
-- [**SOLID **](https://github.com/subraatakumar/JavaScript-clean-code-and-best-practices/blob/main/files/SOLID.md)
+- [**SOLID ](https://github.com/subraatakumar/JavaScript-clean-code-and-best-practices/blob/main/files/SOLID.md)
 - [**YAGNI (You Ain’t Gonna Need It)** – Avoid writing code for features you don’t need yet.](https://github.com/subraatakumar/JavaScript-clean-code-and-best-practices/blob/main/files/YAGNI.md)
 
 ---
